@@ -5,3 +5,4 @@ The dataset used in this project is the **IMDB Dataset of 50K Movie Reviews**, w
 - **Dataset Source:** [Kaggle - IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 - <video src="screen_record.mp4" width="100%" controls></video>
+[▶️ Watch Demo](screen_record.mp4)
