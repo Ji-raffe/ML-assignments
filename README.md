@@ -4,5 +4,8 @@
 The dataset used in this project is the **IMDB Dataset of 50K Movie Reviews**, which contains 50,000 highly polarized movie reviews for natural language processing and sentiment analysis.
 - **Dataset Source:** [Kaggle - IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
-## File Description
-- `NLP_Assignment.ipynb` is used for exploratory data analysis (EDA), feature engineering, and model training.
+## Project Files
+- `app.py`: The main application script for running the web interface.
+- `tfidf_vectorizer.pkl`: Used to convert text data into numerical features using TF-IDF.
+- `sentiment_model.pkl`: Used to predict sentiment from text input.
+- `requirements.txt`: List of Python dependencies required to run the project.
