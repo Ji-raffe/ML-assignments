@@ -3,4 +3,6 @@
 ## Dataset Reference
 The dataset used in this project is the **IMDB Dataset of 50K Movie Reviews**, which contains 50,000 highly polarized movie reviews for natural language processing and sentiment analysis.
 - **Dataset Source:** [Kaggle - IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
-- `NLP_Assignment.ipynb` includes the complete pipeline: exploratory data analysis (EDA), feature engineering, and model training.
+
+## File Description
+- `NLP_Assignment.ipynb` is used for exploratory data analysis (EDA), feature engineering, and model training.
